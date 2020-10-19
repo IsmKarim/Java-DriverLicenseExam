@@ -1,0 +1,142 @@
+0
+A . aux cyclomoteurs
+B . aux cyclistes 
+C . aux motocyclistes
+1
+A . zone 1
+B . zone 2
+C . zone 3
+2
+A . réduire le risque d'accident
+B . réduire les rejets de CO2
+C . réduire les nuisances sonores
+D . réduire la longueur du trajet
+3
+A . à 17 ans
+B . à 17 ans et demi
+C . à 18 ans
+4
+A . un pont sur la chaussée
+B . une voie de chemin de fer
+C . un tunnel
+D . une obligation d'allumer les feux de croisement
+5
+A . oui
+B . Non
+6
+A . gratuit
+B . payant
+C . par disque
+D . à alternance semi-mensuelle
+7
+A . oui
+B . non
+C .
+8
+A)    0,5
+B)    2
+C)    3
+D)    5
+9
+A . les feux de route
+B . les feux de croisement
+C . les feux de position seuls
+10
+A . oui
+B . non
+11
+A . Oui
+B . Non
+C .
+12
+A . commence au panneau
+B . commence à 400 mètres
+C . s’étend sur 400 mètres
+D . se termine à 400 mètres
+13
+A)    oui
+B)    non
+14
+A )  oui
+B )  non
+15
+A .  un virage
+B)    un obstacle
+16
+A )  oui
+B )  non
+17
+A )  oui
+B )  non
+18
+A ) j'avance lentement
+B ) je m'arrête immédiatement
+19
+A ) je ralentis
+B ) je klaxonne
+C ) j’accélère
+D ) je serre à droite
+20
+A ) 40 km/h
+B ) 50 km/h
+C ) 60 km/h
+D ) 70 km/h
+21
+A ) oui
+B ) non
+22
+A ) j’accélère pour arriver plus vite
+B ) je circule moins vite, c’est plus prudent
+C ) je m’arrête pour me reposer
+23
+A ) 5 mètres tous les 10 mètres
+B ) 5 mètres tous les 100 mètres
+C ) 5 mètres tous les 1000 mètres
+24
+A ) avant le panneau
+B ) après le panneau
+C ) ni avant ni après le panneau
+25
+A)    50 mètres
+B)    100 mètres
+C)    150 mètres
+26
+A ) en feux de croisement
+B ) en feux de position seuls
+C ) en feux de route
+27
+A
+B
+28
+A )    oui
+B )    non
+29
+A
+B
+30
+A )    5 mètres tous les 10 mètres
+B )    5 mètres tous les 100 mètres
+C )    5 mètres tous les 1000 mètres
+31
+A )    oui
+B )    non
+32
+A )    avant le panneau
+B )    après le panneau
+C )    ni avant ni après le panneau
+33
+A )    placer ses passagers derrière la glissière
+B )    allumer les feux de détresse
+C )    mettre un gilet de sécurité
+D )    laisser ses passagers à l’intérieur du véhicule
+34
+A )    en feux de croisement
+B )    en feux de position seuls
+C )    en feux de route
+35
+A )    une piste cyclable
+B )    une voie verte
+36
+A )    les rollers
+B )    les cyclomoteurs
+D . Des tracteurs
